@@ -1,9 +1,6 @@
 <?php
 error_reporting(0);
-
-
-
-
+//created by umut
 $user = $_GET['username'];
 
 $url = "https://faceitelo.net/player/$user";
